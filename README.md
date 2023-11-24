@@ -1,3 +1,6 @@
+![Alt text for the image](https://github.com/ruvnet/q-star/blob/main/DALL%C2%B7E%202023-11-24%2011.21.12%20-%20Create%20an%20artistic%20and%20visually%20appealing%20image%20of%20an%20intelligent%20AI%20agent%20in%20a%20dynamic%20setting,%20without%20any%20text.%20The%20artwork%20should%20convey%20the%20essen.png?raw=true)
+
+
 # Q-Star Agent: Reinforcement Learning with Microsoft AutoGen
 
 ## Introduction
