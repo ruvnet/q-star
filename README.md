@@ -43,23 +43,6 @@ To configure and run the script with `OAI_CONFIG_LIST.json`, ensuring all depend
 
 ### Configuring `OAI_CONFIG_LIST.json`
 
-**JSON Configuration:** The `OAI_CONFIG_LIST.json` file configures the AutoGen library with the required model and API key. The configuration example is:
-
-```json
-[
-    {
-        "model": "gpt-4-0314",
-        "api_key": "sk-your-key"
-    }
-]
-```
-- **`model`**: Set this to the specific model you intend to use, like `"gpt-4-0314"` for a GPT-4 model.
-- **`api_key`**: Replace `"sk-your-key"` with your actual OpenAI API key.
-
-To properly configure and run the script using the OAI_CONFIG_LIST.json file, and ensure all dependencies are met in both a Docker environment and Replit, follow these steps:
-
-### Configuring `OAI_CONFIG_LIST.json`
-
 **JSON Configuration:** 
 Configure the AutoGen library using the `OAI_CONFIG_LIST.json` file. An example configuration is as follows:
 
