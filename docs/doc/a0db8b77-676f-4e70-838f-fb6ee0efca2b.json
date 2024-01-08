@@ -1,0 +1,10 @@
+{
+    "summary": "This code specifies package dependencies for the project.\n\nThe first line states that version 1.2.3 of autogen must be used. The second line indicates that any version of numpy equal to or greater than 1.18.5 is acceptable.",
+    "details": [
+        {
+            "comment": "This code specifies package dependencies for the project.\n\nThe first line states that version 1.2.3 of autogen must be used. The second line indicates that any version of numpy equal to or greater than 1.18.5 is acceptable.",
+            "location": "\"/media/root/Toshiba XG3/works/q-star/docs/src/requirements.txt\":0-1",
+            "content": "autogen==1.2.3\nnumpy>=1.18.5"
+        }
+    ]
+}

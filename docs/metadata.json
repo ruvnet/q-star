@@ -1,0 +1,35 @@
+{
+    "url": {
+        "full": "https://github.com/ruvnet/q-star",
+        "partial": "ruvnet/q-star"
+    },
+    "file_mapping": {
+        "0": {
+            "filepath": "/Dockerfile",
+            "entry_id": 0,
+            "language_id": "dockerfile"
+        },
+        "1": {
+            "filepath": "/OAI_CONFIG_LIST.json",
+            "entry_id": 4,
+            "language_id": "json"
+        },
+        "2": {
+            "filepath": "/README.md",
+            "entry_id": 8,
+            "language_id": "markdown"
+        },
+        "3": {
+            "filepath": "/q.py",
+            "entry_id": 48,
+            "language_id": "python"
+        },
+        "4": {
+            "filepath": "/requirements.txt",
+            "entry_id": 66,
+            "language_id": "plain-text"
+        }
+    },
+    "project_name": "q-star",
+    "split_count": 1
+}
