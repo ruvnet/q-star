@@ -1,0 +1,10 @@
+{
+    "summary": "This code contains a list of configuration for OAI models, with one model \"gpt-4-0314\" and its corresponding API key.",
+    "details": [
+        {
+            "comment": "This code contains a list of configuration for OAI models, with one model \"gpt-4-0314\" and its corresponding API key.",
+            "location": "\"/media/root/Toshiba XG3/works/q-star/docs/src/OAI_CONFIG_LIST.json\":0-5",
+            "content": "[\n    {\n        \"model\": \"gpt-4-0314\",\n        \"api_key\": \"sk-your-key\"\n    }\n]"
+        }
+    ]
+}
