@@ -1,0 +1,10 @@
+{
+    "summary": "The Dockerfile defines an image based on Python 3.9, copies the app files, sets the working directory, and installs required packages before running the q.py script.",
+    "details": [
+        {
+            "comment": "The Dockerfile defines an image based on Python 3.9, copies the app files, sets the working directory, and installs required packages before running the q.py script.",
+            "location": "\"/media/root/Toshiba XG3/works/q-star/docs/src/Dockerfile\":0-4",
+            "content": "FROM python:3.9\nCOPY . /app\nWORKDIR /app\nRUN pip install autogen numpy\nCMD [\"python\", \"./q.py\"]"
+        }
+    ]
+}
